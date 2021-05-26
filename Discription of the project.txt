@@ -1,0 +1,36 @@
+hello guys!
+
+
+we are starting with this project...
+
+our aim should be to build fully responsive website with innovative features and database.
+
+VPro Education is an educational website for all students and professionals. 
+1. It provides Personal Development & Subjective Books
+2. Research Documentaries
+3. a Career roadmap
+4. Notes on all the topics including School, Graduate, Post Graduate, and Research Degree Subjects 
+5. Educational News and Blogs are the core facilities of this website
+
+
+Our work will be divided into two sub-group :-
+1. frontend
+2. backend
+
+Members are:-
+1. Priyank Saxena; GitHubId - PriyankV25.
+2. Sharadkumar Zarapkar; GitHubId - sharad297.
+3. Yuvraj Parashar; GitHibId - yuvraj-parashar
+4. Abdur Rahman; GitHibId - Abdur-cse
+
+ 
+frontend members:-
+
+backend members:-
+
+
+
+
+
+
+
